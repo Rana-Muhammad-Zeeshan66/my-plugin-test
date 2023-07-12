@@ -34,5 +34,6 @@
     "verdaccio": "^5.0.4",
     "@nx/plugin": "16.5.1"
   },
-  "type": "commonjs"
+  "type": "commonjs",
+  "generators": "./generators.json"
 }

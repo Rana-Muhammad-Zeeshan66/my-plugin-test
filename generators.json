@@ -1,0 +1,9 @@
+{
+  "generators": {
+    "ui-generator": {
+      "factory": "./src/generators/ui-generator/generator",
+      "schema": "./src/generators/ui-generator/schema.json",
+      "description": "ui-generator generator"
+    }
+  }
+}
